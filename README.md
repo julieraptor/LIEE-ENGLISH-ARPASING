@@ -29,6 +29,7 @@ https://github.com/julieraptor/BLACK-SWAN-QUEEN-LIEE-UTAU/assets/42128030/68cad5
 **Height:** 5'8 (1'72m)
 
 **Voice Configuration:** Cadlaxa and Deadbyte
+
 As part of the "Immortal Idol" project, performers of the future under the company Metamorphose Entertainment undergo several cybernetic surgeries to preserve their talent. 
 This includes having a chip in their brain installed to allow them to download information, especially lyrics and choreo. 
 One capability is the “cross-lingual” ability to speak and sing in several languages without having to spend the time to learn them. 
