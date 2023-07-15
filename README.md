@@ -49,30 +49,30 @@ The design is intended to be an inspired "counterpart" to Chis-A [tʃíːseɪ].
 To get the intended tone of the voice, you may use g5 flags.
 
 **【EXPRESSIONS】**<p>
-NORMAL: The default voice. 
+- NORMAL: The default voice. 
 Suffix: No suffix. 
 *Vocal fry for the base pitch must be used with the suffix G3.
 
-Falsetto: This voicebank has falsetto.
+- Falsetto: This voicebank has falsetto.
 Suffix: F
 
-Soft: This voicebank has a soft expression.
+- Soft: This voicebank has a soft expression.
 Suffix: S
 
-Power: This voicebank has a power expression.
+- Power: This voicebank has a power expression.
 Suffix: P
 
 **【NOTES】**
 
-This voicebank also has the ability to sing in accented Japanese. 
+- This voicebank also has the ability to sing in accented Japanese. 
 Simply use this voicebank in OpenUTAU and convert a UST to CV Japanese.
 
 This voicebank utilizes beginning and end vocal fry for vowels. 
 
-Vocal Fry (Beginning): 
+- Vocal Fry (Beginning): 
 Examples: ['- ah] ['- er]
 
-Vocal Fry (Ending): 
+- Vocal Fry (Ending): 
 Examples: [ah -'] [er -']
 
 # 【TERMS OF USE】
