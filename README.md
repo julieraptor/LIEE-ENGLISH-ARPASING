@@ -6,7 +6,7 @@ Thank you for using LIEE ENGLISH [li:ɛ] (Arpasing)! If you make a cover with LI
 To download, navigate to **Releases** on the right-hand side and choose **LIEE ENGLISH [li-e] (Arpasing) v1.0**.</br>
 
 <p align="center">
-<img src ="https://github.com/julieraptor/BLACK-SWAN-QUEEN-LIEE-UTAU/blob/main/art/BLACK%20SWAN%20QUEEN%20LIEE_CARD.png?raw=true" height="600" />
+<img src ="(https://github.com/julieraptor/LIEE-ENGLISH-ARPASING/blob/main/Art/Arpasing_card.png?raw=true)" height="600" />
 <br>
 <i>LIEE ENGLISH [li:ɛ] (Arpasing) designed and sketched by @rev_bmp, and art by @ChulieChu.</i>
 </p>
