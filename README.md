@@ -37,7 +37,7 @@ One capability is the “cross-lingual” ability to speak and sing in several l
 ### Voice and Training Attributes
 
 **UTAU Voicebank:**
-- **Pitches:** F3, A3, C4, Power D4, Yelling F4, Falsetto F4
+- **Pitches:** G3, B3, D4, Soft A3, Falsetto E4, Power G4
 - **Logical Range:** G1 ~ E5
 
 This voicebank is a multipitch (G3, B3, D3, falsetto) and multiexpression (soft, power) ARPASING voicebank plus dx phonemes, vocal fry and hum. It was recorded with the 0.2.0 6syl reclist. This voicebank also has the ability to sing in accented Japanese. 
