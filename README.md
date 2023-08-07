@@ -13,7 +13,8 @@ To download, navigate to **Releases** on the right-hand side and choose **LIEE E
 
 # 【SAMPLE】 
 
-https://github.com/julieraptor/BLACK-SWAN-QUEEN-LIEE-UTAU/assets/42128030/68cad586-4abc-4078-90a2-83ddfaefd9ab
+
+https://github.com/julieraptor/LIEE-ENGLISH-ARPASING/assets/42128030/ea102b92-f6ae-413c-9a1f-2edd018ad6f8
 
 
 # 【NOTES】 
