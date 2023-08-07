@@ -16,6 +16,7 @@ To download, navigate to **Releases** on the right-hand side and choose **LIEE E
 
 https://github.com/julieraptor/LIEE-ENGLISH-ARPASING/assets/42128030/ea102b92-f6ae-413c-9a1f-2edd018ad6f8
 
+Release video: [https://www.youtube.com/watch?v=etHfoTK4xbo](https://www.youtube.com/watch?v=etHfoTK4xbo)
 
 # 【NOTES】 
 ### Character Details
